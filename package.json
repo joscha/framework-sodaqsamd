@@ -2,6 +2,6 @@
     "description":"SODAQ Core for SAMD21 CPU",
     "name":"framework-sodaqsamd",
     "system":"all",
-    "url":"https://github.com/SodaqMoja/SodaqCore-samd/tree/v1.6.8-sodaq",
-    "version":"1.6.8"
+    "url":"https://github.com/SodaqMoja/SodaqCore-samd/tree/v1.6.12-sodaq",
+    "version":"1.6.12"
 }
